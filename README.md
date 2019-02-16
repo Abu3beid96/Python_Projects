@@ -1,3 +1,3 @@
 # Python_Projects
-Anagram Challenge
-Pandas Implementation
+Anagram Challenge,
+ Pandas Implementation
